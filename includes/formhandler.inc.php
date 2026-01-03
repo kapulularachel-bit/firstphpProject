@@ -22,5 +22,3 @@
     header("Location: ../page.php?error=invalidrequest");
     echo "Invalid request method.";
   }
-
-?>

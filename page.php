@@ -9,7 +9,7 @@
 <body>
     <section>
         <h1>SIGN IN</h1>
-        <form action="includes/formhandler.inc.php" method="post">
+        <form action="includes/formhander.inc.php" method="post">
           <label for="customername">Full Name:</label><br>
           <input type="text" name="customername" id="customername">
           <br><br>
